@@ -1,0 +1,98 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+		
+header, footer{
+	background-color:rgb(0, 219, 208);
+	text-align:center;
+	font-size:16px;
+	color:#fff;
+	padding:10px 0px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}	
+
+footer{
+    background-color: rgb(0, 219, 208);
+}	
+
+.parrafo{
+	width:500px;
+	background-color:#e63c63;
+	color: #ffffff;
+	text-align: center;
+}
+
+.parrafo2{
+	width:500px;
+	background-color:#820f65;
+	color:#ffffff;
+	text-align: right;
+}
+
+.nuevo{
+	height:50px;
+	margin:0 auto;
+	background-color: #ff8543;
+}
+
+.contenido{
+	height:300px;
+	background-color:#db35a185;
+	text-align:center;
+	color:#fff;
+}
+
+section{
+	margin-top: 10px;
+	border: 5px solid #e5ef32;
+}
+
+
+/* clases para el ejercicio */
+
+article{
+    width: 45%;
+    height: 200px;
+    display: inline-block;
+    border: 5px solid #d83030;
+    text-align: center;
+    vertical-align: top;
+	font-size: 20px;
+	margin: 5px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.encabezado{
+    text-align: center;
+    background-color: #eaf914;
+    color: #1a8231;
+}
+
+.texto{
+    font-size: 30px;
+    font-weight: bold;
+    color: #6b098c;
+    line-height: 200px;
+}
+
+img
+{
+	margin-top: 30px;
+    width: 150px;
+}
+
+.section_desing
+{
+	text-align: center;
+	font-size: 15px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.article_desing
+{
+	color: #0000003c;
+	text-align: center;
+	margin-top: 50px;
+}
